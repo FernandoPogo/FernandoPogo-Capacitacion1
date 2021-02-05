@@ -1,0 +1,18 @@
+{
+	"INTRD": {
+		"LBL": {
+			"LBL_INTRD_CALCULARR_45622": "Calcular",
+			"LBL_INTRD_CDULAJGVF_43477": "C\u00e9dula",
+			"LBL_INTRD_CLIENTEOK_20619": "Cliente",
+			"LBL_INTRD_GUARDARPQ_60175": "Guardar",
+			"LBL_INTRD_LIMPIARZH_53559": "Limpiar",
+			"LBL_INTRD_NMERO1LST_14651": "N\u00famero 1",
+			"LBL_INTRD_NMERO2PPM_39618": "N\u00famero 2",
+			"LBL_INTRD_NMEROCUTT_68335": "N\u00famero de cuenta",
+			"LBL_INTRD_RESPUESTT_40544": "Respuesta",
+			"LBL_INTRD_SALDOGTZL_75399": "Saldo"
+		},
+		"MSG": {
+		}
+	}
+}

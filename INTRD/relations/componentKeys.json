@@ -1,0 +1,36 @@
+{
+	"Entities": {
+		"EN_CUENTAAHO_332": {
+			"name": "CuentaAhorros1"
+		},
+		"EN_CUENTAASO_276": {
+			"name": "CuentaAhorros"
+		}
+	},
+	"FRMLR": {
+		"CompositeForms": {
+		},
+		"Forms": {
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	},
+	"OPRCN": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_INTRDKEPEDUVP_438": {
+				"name": "FormCuentaAhorrosSP2"
+			},
+			"T_INTRDYPQUMJTA_231": {
+				"name": "FormCuentaAhorrosSP1"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

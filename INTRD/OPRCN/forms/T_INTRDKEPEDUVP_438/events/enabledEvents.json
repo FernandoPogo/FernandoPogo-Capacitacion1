@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONVGOBRPR_655182",
+		"controlName": "VA_VABUTTONVGOBRPR_655182",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 7
+			}
+		],
+		"entityName": "CuentaAhorros",
+		"eventsType": "visualAttributeEventType"
+	}
+]

@@ -1,0 +1,21 @@
+{
+	"INTRD": [
+		{
+			"entities": {
+				"inputEntity": [
+					{
+						"entityId": "EN_CUENTAASO_276",
+						"moduleId": "INTRD",
+						"related": false
+					}
+				],
+				"outputEntity": [
+				],
+				"returnEntity": [
+				]
+			},
+			"idBli": "BLI8781_bli_insertarcuentaahorrossp1",
+			"nameBli": "BLI_InsertarCuentaAhorrosSP1"
+		}
+	]
+}

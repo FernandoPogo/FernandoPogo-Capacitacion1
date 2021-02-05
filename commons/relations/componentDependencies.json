@@ -1,0 +1,71 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CUENTAAHO_332": {
+			"labels": [
+			]
+		},
+		"EN_CUENTAASO_276": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_INTRDKEPEDUVP_438": {
+			"blis": [
+				"BLI8781_bli_insertarcuentaahorrossp1"
+			],
+			"entities": {
+				"EN_CUENTAASO_276": [
+					"AT51_CLIENTEE276",
+					"AT69_SALDOXWM276",
+					"AT88_FECHACAC276"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_CDULAJGVF_43477",
+				"LBL_INTRD_GUARDARPQ_60175",
+				"LBL_INTRD_NMEROCUTT_68335",
+				"LBL_INTRD_SALDOGTZL_75399"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDYPQUMJTA_231": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTAASO_276": [
+					"AT51_CLIENTEE276",
+					"AT69_SALDOXWM276"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_CLIENTEOK_20619",
+				"LBL_INTRD_GUARDARPQ_60175",
+				"LBL_INTRD_SALDOGTZL_75399"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}
